@@ -188,7 +188,7 @@ jsteg hide <in.jpg> <secret file name> <out.jpg>
 
 > It is the maximum payload jsteg can embed.
 
-7.	Calculate the psnr for the stego image, do visual attack and histogram attack after jsteg
+# 5.	Calculate the psnr for the stego image, do visual attack and histogram attack after jsteg
 ## PSNR 
 ```
 import sys
